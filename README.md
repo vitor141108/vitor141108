@@ -12,5 +12,5 @@ Meu nome é vitor hugo
 
 vitor141108
 
+![](https://media1.tenor.com/m/ZARBViZffU4AAAAd/hd-smirk.gif)
 
-https://media1.tenor.com/m/ZARBViZffU4AAAAd/hd-smirk.gif
