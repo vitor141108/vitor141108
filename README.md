@@ -2,7 +2,7 @@
 
 Meu nome é vitor hugo
 
-- Estou estudando no alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me densenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
