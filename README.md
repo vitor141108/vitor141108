@@ -6,7 +6,7 @@ Meu nome é vitor hugo
 - Estou me densenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Voçe pode entrar em contato com migo 📫
+### Voçe pode entrar em contato com eu 📫
 
 0000111848775sp@al.educacao.sp´.gov.br
 
